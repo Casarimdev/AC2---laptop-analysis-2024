@@ -78,5 +78,3 @@ Ou execute via Python:
    ```
 
 ---
-
-📌 Projeto acadêmico desenvolvido para fins educacionais com foco em análise exploratória de dados reais de mercado. Sinta-se livre para colaborar! 🚀
